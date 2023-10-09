@@ -1,7 +1,10 @@
 # Deep_Learning_For_Image_Generation
 This repository contains the presentation and Colab noteboks created for the course Deep learning for Image Generation. 
+
 Ulf Krummnack 
+
 2023 
+
 University Osnabrück 
 
 ## Author 
