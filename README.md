@@ -11,7 +11,7 @@ University Osnabrück
 Lisa Golla 
 
 ## Structure 
-In the notebook folder there are 2 notebooks, namely one stable diffusion notebook and one notebook demonstrating a FaceSwap in terms of DeepFakes. The presentation slides are first of all the final presentation of the course, as well as a presentation on AI and creativity for the course as well as presentation slides from a DeepFake presentaion of the course Advanced Computer Vision by Gunther Heidemann since the two presentations were prepared in the same semester with similar input. The notebooks are meant to serve as a demo in order to demonstrate the functionalities and basic concepts. 
+In the notebook folder there are 2 notebooks, namely one stable diffusion notebook and one notebook demonstrating a FaceSwap in terms of DeepFakes. Coding and submitting 2 topic related notebooks were a necessary requirement for the course. The presentation slides are first of all the final presentation of the course, as well as a presentation on AI and creativity for the course as well as presentation slides from a DeepFake presentaion of the course Advanced Computer Vision by Gunther Heidemann since the two presentations were prepared in the same semester with similar input. The notebooks are meant to serve as a demo in order to demonstrate the functionalities and basic concepts.
 
 ## Stable diffusion 
 
